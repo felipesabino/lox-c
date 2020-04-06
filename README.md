@@ -5,3 +5,9 @@ Implementation of [Lox](https://github.com/munificent/craftinginterpreters) in C
 # Notable differences to cLox
 
 - none so far...
+
+# Building
+
+```
+$ make
+```
