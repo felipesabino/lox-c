@@ -11,3 +11,13 @@ Implementation of [Lox](https://github.com/munificent/craftinginterpreters) in C
 ```
 $ make
 ```
+or
+```
+$ make debug
+```
+
+# Running
+
+```
+$ ./clox
+```
